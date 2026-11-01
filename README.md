@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Akshaya Manivannan
 
-<!--
-**akshaya-manivannan/akshaya-manivannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate at ECU University (Sri Lanka), aspiring **QA Engineer**.
 
-Here are some ideas to get you started:
+## What I'm learning
+- Manual software testing: test cases, bug reports, defect tracking
+- SQL (my strongest skill so far), plus basic Python and HTML
+- UI/UX design with Figma and Wix
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [sql-student-database](https://github.com/YOUR-USERNAME/sql-student-database): a small student/course database with SQL queries, including data-quality checks
+- [qa-test-cases-saucedemo](https://github.com/YOUR-USERNAME/qa-test-cases-saucedemo): test cases and a bug report template for a public practice website
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/akshaya-manivannan-40497a308)
